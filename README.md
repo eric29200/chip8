@@ -1,1 +1,1 @@
-# chip8 emulator with gtk front end
+chip8 emulator with gtk front end
